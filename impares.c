@@ -9,7 +9,7 @@ int main(){
     void imparess (menor, maior){
         for (int i = menor; i <= maior; i++){
             if(i%2 != 0){
-            printf("%d  ", i);
+            printf("%d,  ", i);
             }  
         }
  
